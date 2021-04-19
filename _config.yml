@@ -1,0 +1,7 @@
+# Site settings
+lang:                en
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
