@@ -1,5 +1,11 @@
 # Site settings
-lang:                en
+lang: en
+
+title: Maciej Fota
+
+author:
+  name:  Maciej Fota
+  url:   https://github.com/maciej-fota-1976
 
 plugins:
   - jekyll-feed
