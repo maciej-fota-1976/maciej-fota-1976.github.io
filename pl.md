@@ -1,3 +1,7 @@
+---
+permalink: /pl/
+---
+
 # Cześć <span aria-label="macha ręka" role="img">👋</span>
 
 Jestem <a href="https://github.com/macij-fota-1976">Maciej</a>.
