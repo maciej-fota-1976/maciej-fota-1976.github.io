@@ -1,3 +1,7 @@
+---
+permalink: /en/
+---
+
 # Hi there <span aria-label="waving hand" role="img">👋</span>
 
 I'm <a href="https://github.com/maciej-fota-1976">Maciej</a>.
